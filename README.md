@@ -74,7 +74,7 @@ Now install the dependencies and test dependencies:
 ```
 pip install -e '.[test]'
 ```
-```
+
 To run the tests:
 ```bash
 pytest
